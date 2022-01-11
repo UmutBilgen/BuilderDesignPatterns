@@ -1,0 +1,15 @@
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\bin\Debug\netcoreapp3.1\BuilderTasarım.exe
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\bin\Debug\netcoreapp3.1\BuilderTasarım.deps.json
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\bin\Debug\netcoreapp3.1\BuilderTasarım.runtimeconfig.json
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\bin\Debug\netcoreapp3.1\BuilderTasarım.runtimeconfig.dev.json
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\bin\Debug\netcoreapp3.1\BuilderTasarım.dll
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\bin\Debug\netcoreapp3.1\BuilderTasarım.pdb
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\netcoreapp3.1\BuilderTasarım.csprojAssemblyReference.cache
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\netcoreapp3.1\BuilderTasarım.Form1.resources
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\netcoreapp3.1\BuilderTasarım.csproj.GenerateResource.cache
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\netcoreapp3.1\BuilderTasarım.AssemblyInfoInputs.cache
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\netcoreapp3.1\BuilderTasarım.AssemblyInfo.cs
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\netcoreapp3.1\BuilderTasarım.csproj.CoreCompileInputs.cache
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\netcoreapp3.1\BuilderTasarım.dll
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\netcoreapp3.1\BuilderTasarım.pdb
+C:\Users\umutr\source\repos\BuilderTasarım\BuilderTasarım\obj\Debug\netcoreapp3.1\BuilderTasarım.genruntimeconfig.cache
